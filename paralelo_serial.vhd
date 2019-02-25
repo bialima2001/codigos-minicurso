@@ -1,4 +1,4 @@
--- Modificado por: EDMILA DE MACEDO
+-- Modificado por: BIANCA LIMA
 -- PARALELO SERIAL
 library ieee;
 use ieee.std_logic_1164.all;
